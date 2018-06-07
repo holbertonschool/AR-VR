@@ -21,4 +21,4 @@ body {color: #FFFFFF; background-color: #231F20; font-family: 'Changa', sans-ser
 .webgl-content .footer .title {margin-right: 10px; float: right;}
 .webgl-content .footer .fullscreen {background-image: url('fullscreen.png'); width: 38px; float: right;}
 .webgl-content .controls {float: left; width: 50%; text-align: left; margin-top: 40px;}
-.webgl-content .description {float: left; width: 50%; text-align: center; margin-top: 40px; font-weight: 300}
+.webgl-content .description {float: left; width: 50%; text-align: center; margin-top: 40px; font-weight: 300;}
